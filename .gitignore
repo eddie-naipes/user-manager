@@ -5,6 +5,7 @@ node_modules/
 
 # Expo
 .expo/
+.expo-shared/
 dist/
 web-build/
 
@@ -33,3 +34,26 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# ide
+.idea/
+*.iml
+
+# npm and yarn cache
+.npm/
+.yarn/
+.pnp.*
+
+# lockfiles and build results
+package-lock.json
+yarn.lock
+build/
+
+# logs
+*.log
+
+# linter
+eslintcache
+
+# VS Code
+.vscode/
