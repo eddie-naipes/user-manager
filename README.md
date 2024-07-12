@@ -29,9 +29,10 @@ O User Manager é projetado com simplicidade e funcionalidade no seu núcleo. Se
 
 ## Capturas de Tela
 
-![Cadastro de Usuário](./screenshots/user-registration.png)
-![Lista de Usuários](./screenshots/user-list.png)
-![Estado Vazio](./screenshots/empty-state.png)
+<img src="./assets/screenshots/user-registration.png" alt="Cadastro de Usuário" width="300"/>
+<img src="./assets/screenshots/user-list.png" alt="Lista de Usuários" width="300"/>
+<img src="./assets/screenshots/empty-state.png" alt="Estado Vazio" width="300"/>
+
 
 ## Primeiros Passos
 
@@ -96,5 +97,5 @@ Para mais informações, por favor entre em contato:
 **Edmilson Dias**  
 Fundador e Desenvolvedor Líder na Naipe Sync Solutions  
 Email: ed.dias@naipesync.com  
-LinkedIn: [Edmilson Dias](https://www.linkedin.com/in/edmilson-dias-216012319/)
+LinkedIn: [Edmilson Dias](https://www.linkedin.com/in/edmilsondiass/)
 
